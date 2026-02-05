@@ -1,11 +1,11 @@
-# 🧮 Java Calculator
+# Java Calculator
 
 A simple calculator built in **Java (AWT)** with a modern **FlatLaf theme** for a clean and user-friendly interface.  
 This project was developed in **NetBeans IDE**.
 
 ---
 
-## ✨ Features
+## Features
 - Basic arithmetic operations: **Addition, Subtraction, Multiplication, Division**
 - Lightweight UI built with **Java AWT**
 - **FlatLaf theme** for a modern look
@@ -13,7 +13,7 @@ This project was developed in **NetBeans IDE**.
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 - **Java (AWT)**
 - **FlatLaf Look and Feel**
 - **NetBeans IDE**
